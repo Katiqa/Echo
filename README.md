@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0dp3hqn8xutav0xd?svg=true)](https://ci.appveyor.com/project/Katiqa/echo)
